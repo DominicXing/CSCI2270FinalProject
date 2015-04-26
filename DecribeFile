@@ -1,1 +1,2 @@
-This is a program reading text from txt file and implement them a graph.
+This is a program reading text from txt file and implement them a graph. So we use haed file to read the length of two points and 
+read those points, after that we want ot search for the map and print out those assign points, also we will print the whole map.
